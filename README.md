@@ -4,7 +4,7 @@
 
 This project demonstrates how to:
 
-1. Install **Ollama**.
+1. Install **Ollama** [Ollama] (https://ollama.com/library).
 2. Download and run Google's **Gemma 4** model locally.
 3. Connect Gemma 4 to Python through `ChatOllama`.
 4. Build a tool-using agent with **LangGraph**.
