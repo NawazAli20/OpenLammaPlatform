@@ -1,6 +1,6 @@
-# OpenLammaPlatform 
 
-# Run Gemma 4 Locally with Ollama and LangGraph
+
+# Run Gemma 4 Locally with Ollama and LangGraph/Langchain
 
 This project demonstrates how to:
 
