@@ -4,9 +4,9 @@
 
 This project demonstrates how to:
 
-1. Install **Ollama** [Ollama] (https://ollama.com/library).
-2. Download and run Google's **Gemma 4** model locally.
-3. Connect Gemma 4 to Python through `ChatOllama`.
+1. Install **Ollama** (https://ollama.com/library).
+2. Download and run Google's **Gemma 4** model locally (https://ollama.com/library/gemma4).
+3. Connect Gemma 4 to Python through `ChatOllama` or 'init_chat_model' from langchain
 4. Build a tool-using agent with **LangGraph**.
 5. Add short-term conversation memory with a LangGraph checkpointer.
 
